@@ -1,0 +1,34 @@
+# Project
+type: novel
+
+# Identity
+title: "Il giorno di chiusura"
+subtitle: ""
+series: ""
+volume: 1
+
+# People
+author: "Josephus Miller"
+translator: ""
+editor: ""
+illustrator: ""
+
+# Publication
+language: it
+genre: "Noir"
+isbn: ""
+publisher: ""
+edition: 1
+date: ""
+
+# Build — output only after a versioned release
+build_formats:
+    - html
+    - epub
+theme: default
+cover: ""
+
+# Legal
+license: All rights reserved
+license_url: ""
+copyright: ""

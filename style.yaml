@@ -1,0 +1,12 @@
+narrator: third-person
+pov: Alma
+tense: past
+tone: "Concreto, partecipe senza indulgenza, ironia asciutta."
+voice: "Vicino al lavoro delle mani e alle esitazioni di Alma; niente voce saggistica sopra i personaggi."
+rules:
+    - "La narrazione sa ciò che Alma può osservare, ricordare o inferire; le sue inferenze possono essere sbagliate."
+    - "La competenza tecnica non rende Alma infallibile e non le conferisce autorità sulle vite altrui."
+    - "Ogni personaggio deve volere qualcosa oltre alla funzione che svolge nell'indagine."
+    - "Niente discorsi che spieghino il tema al lettore; conflitti e riparazioni devono costare qualcosa nelle scene."
+    - "Porto, cooperativa e personaggi sono inventati; i meccanismi tecnici e investigativi richiedono ricerca prima della stesura."
+dialogue_style: guillemets
