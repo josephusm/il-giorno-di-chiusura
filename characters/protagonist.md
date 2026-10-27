@@ -18,7 +18,7 @@ Sa distinguere una vibrazione normale da una che non le piace. Resta da costruir
 
 ## Backstory
 
-Mantiene l'impianto del ghiaccio della cooperativa in un porto inventato. Ha contribuito a salvarlo con un socio di cui si fida. I termini di quel salvataggio e i suoi interventi non dichiarati sono ancora da decidere.
+Mantiene l'impianto del ghiaccio della cooperativa in un porto inventato. Ha contribuito a salvarlo con Dario, di cui si fida. Nella catena candidata ha chiuso sulla sua parola la sostituzione di una propria riparazione provvisoria, senza controllarla né descriverne la provvisorietà nella scheda comune. Non conosceva i guasti provocati. I termini del salvataggio dell'impianto restano da costruire.
 
 ## Arc
 
@@ -26,4 +26,4 @@ Vuole partire per tre settimane con la sorella e tornare al suo lavoro, non abba
 
 ## Notes
 
-Scheda minima di concept, non personaggio completato. Non definire la sorella soltanto come premio del viaggio o la collega come apprendista da salvare.
+Scheda minima di concept, non personaggio completato. Ruoli ora nominati, tutti provvisori: Nora è la collega, Dario il socio, Enzo il contabile, Ada la sorella. Leggere le loro schede: nessuno sospende le proprie scelte aspettando che Alma risolva il caso. Non definire Ada soltanto come premio del viaggio o Nora come apprendista da salvare.
