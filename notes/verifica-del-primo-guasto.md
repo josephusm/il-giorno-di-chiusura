@@ -2,39 +2,50 @@
 title: "Verifica del primo guasto"
 ---
 
-# Verifica del primo guasto — 29 ottobre 2026
+# Verifica del primo guasto
 
-Stato: task incompleto. Nessun impianto/componente scelto e verificato insieme; nessuna diagnosi fisica acquisita. Il risultato utilizzabile oggi è una riduzione di ciò che l'indizio può dimostrare, non il superamento della verifica tecnica.
+## Esito del 31 ottobre 2026
 
-## Autoprompt
+Chiusa la verifica documentale circoscritta: scelti una macchina e un collegamento reali di riferimento; cambiato l'intervento precedente di Alma e ridotta la pretesa della traccia. Non è un collaudo, una diagnosi o l'approvazione dell'intero impianto del porto. Stato del libro: concept.
 
-Scegliere un circuito reale compatibile con la perdita d'acqua e una riparazione provvisoria; cercare un motivo per scartare la traccia vecchio/nuovo. Distinguere identità del pezzo, storia dell'installazione e causa del guasto. Non affrontare caduta, topografia, motivi o capitoli.
+Autoprompt: trovare un componente leggibile senza reiterare i recuperi falliti; se la riparazione provvisoria richiede una licenza inventata, cambiarla. Separare circuito, stato osservato e storia del pezzo. Nessuna caduta, topografia o scena.
 
-## Che cosa è stato consultato davvero
+## Che cosa resta del tentativo del 29 ottobre
 
-Gli indici HTML ufficiali di Scotsman elencano MAR 126 fra le schede archiviate e il manuale MAR 56-76-106-126-206-306 fra quelli disponibili. Questo conferma la disponibilità a catalogo di quei documenti, non un circuito di raffreddamento o la compatibilità di un componente.
+Erano stati letti soltanto gli indici HTML ufficiali Scotsman: [schede](https://www.scotsman-ice.it/library/spec-sheets/) e [manuali](https://www.scotsman-ice.it/library/service-manuals/). Scheda MAR 126 IT e manuale MAR rev 2018-06 IT individuati, non letti: web_fetch restituiva PDF grezzo, due recuperi locali HTTP 403. Non ripetuti oggi. Source #1320/read #2497 resta discovery, non verifica tecnica.
 
-- [Indice delle schede tecniche](https://www.scotsman-ice.it/library/spec-sheets/): testo HTML letto, collegamento MAR 126 individuato nell'attributo del selettore di lingua tramite browser.
-- [Indice dei manuali di servizio](https://www.scotsman-ice.it/library/service-manuals/): testo HTML letto, collegamento italiano della famiglia MAR individuato nello stesso modo.
-- [Scheda MAR 126 IT](https://www.scotsman-ice.it/library/spec-sheets/archived-spec/mar-126/mar-126-it.pdf): risposta PDF ricevuta da web_fetch, non testo leggibile. Non letta.
-- [Manuale MAR, revisione indicata nel collegamento 2018-06 IT](https://www.scotsman-ice.it/library/service-manuals/mar/mar-56-76-106-126-206-306/mar-56-76-106-126-206-306-rev-2018-06-it?v=24-02-2025-14-40): risposta PDF grezza, non contenuto tecnico letto.
+Resta valida la correzione: vecchio pezzo dopo la morte e ricambio a magazzino non provano «mai montato». Possibili installazione e rimozione intermedie oppure seconda fornitura. Due tacche non sono un seriale; lo stato dopo la morte non certifica quello all'inizio della perdita.
 
-Il recupero locale per estrarre il testo ha restituito HTTP 403 due volte, prima sul manuale e poi sulla scheda. Stop a quel passaggio, senza reiterazione o aggiramento. La ricerca Google iniziale aveva restituito una pagina quasi vuota e poi un controllo anti-robot nel browser; nessun contenuto ricavato. Le altre pagine di navigazione del costruttore e l'indice Hoshizaki non hanno fornito la verifica necessaria. Il primo percorso MAR tentato come pagina prodotto restituiva 404. Nessun risultato tecnico viene dedotto da questi accessi.
+## Documentazione primaria letta oggi
 
-## La traccia originaria prometteva troppo
+Il riferimento scelto è **Hoshizaki FM-480AWKE**, senza suffisso -N o -HC, incluso nei manuali di famiglia del 2021. Non occorre esporre il marchio nel romanzo; il guasto e gli interventi restano inventati, non episodi attribuiti al costruttore.
 
-La nota del 25 ottobre chiamava B «il ricambio non è mai entrato in servizio». Ma, anche concedendo di riconoscere il vecchio pezzo nella fotografia, ritrovarlo montato dopo la morte non prova che il nuovo non sia stato installato in precedenza. Potrebbe essere stato montato e poi tolto. Non scelgo oggi questa seconda storia: è il controcaso che impedisce all'indizio di dimostrare da solo la prima.
+- [Installation Manual, L2F054204 (083121)](https://hoshizaki.com.au/wp-content/uploads/2023/03/FM-480AKE-Installation-Manual.pdf): lette solo pagine PDF 1 e 5–9, corrispondenti nel corpo inglese alle stampate 3–7. Il titolo del file non elenca tutta la famiglia: la copertina include FM-480AWKE. §§4–7 documentano uso interno, manutenzione con alimentazione disconnessa, scarico a gravità, tubi nuovi all'installazione e collegamento separato del condensatore. §7 e figure [a]/[b] distinguono acqua potabile del ghiaccio, acqua di raffreddamento e scarico. L'opzione [b], per installazioni fuori dallo schema WRAS, prevede flessibili accessori anche per il condensatore. §§8–9 includono verifica delle perdite.
+- [Instruction Manual, L1F054208 (083121)](https://hoshizaki.com.au/wp-content/uploads/2023/03/FM-480AKE-N-Instruction-Manual.pdf): lette solo pagine PDF 1, 3, 6–8, 10–11. Ubicazione, alimentazione, acqua, arresto tramite Stop, precauzioni per fermo prolungato, manutenzione e tabella errori. E0 segnala possibilità di perdite: non dimostra un sensore sul flessibile esterno. Nessun interblocco specifico viene assegnato al guasto.
+- La [scheda HTML attuale FM-480AWKE-HC](https://hoshizaki-europe.com/product/fm-480awke/) riguarda una versione diversa. Non trasferisco refrigerante, capacità o consumi al modello scelto.
 
-Anche il ricambio in magazzino potrebbe appartenere a una seconda fornitura. Codice di modello, scatola e documento di acquisto non vanno trattati per definizione come identificatore univoco dell'esemplare. Le due tacche possono guidare un confronto, ma non sono un seriale certificato; finché manca un componente reale e una fotografia leggibile, la loro forza identificativa è una promessa dell'autore.
+Testo estratto dalle pagine PDF del sito ufficiale, non da snippet di ricerca. Catalogo #1332, source_reads #2544–2547. Una sola famiglia documentale, nessuna corroborazione fisica indipendente. Il tentativo su una copia Manuals+ si è fermato a challenge HTTP 403 e timeout del browser; nessun aggiramento o contenuto acquisito.
 
-Infine, il pezzo presente al momento dell'ispezione non stabilisce da solo quale pezzo fosse in servizio quando è cominciata la perdita. La continuità fra osservazione del guasto e ispezione deve essere costruita nel racconto; non basta scrivere «dopo i rilievi». Non aggiungo oggi sigilli, registrazioni o testimoni per tappare il buco.
+## Componente e modifica dell'intervento
 
-## Decisione limitata
+Scelto il **flessibile esterno di ritorno dell'acqua di raffreddamento dal condensatore**, nello schema [b] del manuale d'installazione. La figura lo distingue dal tubo che alimenta l'acqua del ghiaccio e dallo scarico a gravità. È acqua di servizio, non refrigerante né acqua di mare. Il circuito di riferimento ricircola attraverso un sistema di raffreddamento separato; non viene disegnata oggi la centrale. I limiti di pressione dell'acqua potabile non diventano per estensione quelli del ritorno condensatore.
 
-Scartata la traccia come prova autosufficiente di mancata installazione. Nella cronologia privata candidata il ricambio rimane non montato, ma il romanzo non ha ancora costruito come questo diventi conoscibile. Alma può segnalare una discrepanza fra dichiarazione e stato osservato: non può raccontarne tutta la storia come se l'avesse vista.
+Nella cronologia privata il primo problema è una perdita al collegamento di quel flessibile. I manuali documentano il collegamento e la necessità di tenuta, non il cedimento del nostro esemplare. Non scelgo microfratture, tempi di fatica o una diagnosi ricavata dalla sola pozzanghera: anche la condensa è una possibilità menzionata dal costruttore.
 
-Le note causali vengono allineate a questo limite. Né la somiglianza della perdita né la presenza del vecchio pezzo provano chi l'abbia provocata; nessun risultato riguarda la morte. Il carattere provvisorio dell'intervento e il suo cedimento restano una scelta narrativa da validare fisicamente.
+**Abbandonata la toppa che avrebbe consentito di continuare a produrre.** Non è dimostrata impossibile: manca una base per usarla. L'intervento precedente di Alma diventa un fermo con segnalazione di sostituzione necessaria. Il provvisorio è la pratica rimasta aperta, non un rappezzo messo in pressione. Dario dichiara poi sostituzione, verifica e ripristino; Alma chiude sulla sua parola, senza controllo diretto e senza rendere visibile nella scheda comune la propria segnalazione iniziale. La sua responsabilità resta concreta, ma non dipende da una riparazione meccanica inventata.
 
-## Prossimo unico task
+## Osservazione vecchio/nuovo, non biografia del pezzo
 
-Riprendere la verifica sul primo guasto soltanto con documentazione tecnica leggibile: scegliere una macchina e un componente effettivamente compatibili, distinguendo il circuito dell'acqua dal refrigerante e dall'acqua che diventa ghiaccio. Non presumere acqua di mare, tubi, pressioni, riparabilità o interblocchi dal contesto portuale. Se il componente non regge, cambiare la riparazione candidata. Poi circoscrivere un'osservazione vecchio/nuovo che il lettore possa valutare, senza farle provare una storia continua che non documenta. Non ripetere i due download falliti come se mancasse solo insistere. Nessuna stesura, caduta o pianta nello stesso turno.
+Scelta narrativa nuova, da introdurre prima del risultato: alla prima segnalazione Alma aveva segnato direttamente il rivestimento esterno del tubo e fotografato scritta e abrasione vicina. La marcatura è un gesto inventato del personaggio, non un seriale di fabbrica o una proprietà garantita degli accessori Hoshizaki.
+
+Il mattino della consegna Nora ferma la macchina e documenta il collegamento esterno nell'ispezione già richiesta per l'inventario, prima della morte. Non apre un riparo del circuito frigorifero. Alma è presente; riconosce provvisoriamente la combinazione fra scritta e abrasione. Il lettore vede prima il quaderno e poi il confronto. Le fotografie registrano lo stato durante quel controllo: non serve fingere continuità fino a un'ispezione successiva alla morte. Un timestamp, da solo, non è prova infallibile.
+
+Questo permette una discrepanza specifica: il tubo osservato sembra quello già segnalato, benché la pratica dichiari sostituzione. La corrispondenza resta valutabile e contestabile; non è identificazione peritale. Il nuovo a magazzino è un pezzo disponibile, non un esemplare univoco. Anche un riconoscimento corretto non esclude montaggi intermedi, non diagnostica l'origine dell'acqua e non prova che Nora non abbia compiuto altri errori. La difesa immediata è più stretta: il suo arresto non dimostra che abbia causato il problema.
+
+La mancata installazione rimane nella cronologia privata candidata. Per renderla una scoperta occorreranno riscontri sulla storia dell'intervento; non li invento oggi. Nessuna conseguenza automatica sui due sabotaggi o sull'omicidio.
+
+## Confini e prossimo task
+
+Questa scelta basta a non sospendere ancora il concept in attesa del vecchio PDF: componente reale, circuito distinto, risposta al guasto riformulata e osservazione circoscritta. Non basta a dichiarare verificati impianto completo, dimensionamento, conformità locale, origine effettiva della perdita, identità certa o continuità dell'installazione.
+
+Prossima sessione: solo la sostenibilità concreta del ricatto di Enzo — somma candidata, incassi contro liquidità di Dario, contenuto della leva e alternativa meno dannosa. Nessuna scena, caduta o pianta finché quel passaggio non regge. Non riaprire una ricerca generica sui tubi e non promuovere il libro ad active per il solo esito documentale.

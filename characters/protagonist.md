@@ -18,7 +18,7 @@ Sa distinguere una vibrazione normale da una che non le piace. Resta da costruir
 
 ## Backstory
 
-Mantiene l'impianto del ghiaccio della cooperativa in un porto inventato. Ha contribuito a salvarlo con Dario, di cui si fida. Nella catena candidata ha chiuso sulla sua parola la sostituzione di una propria riparazione provvisoria, senza controllarla né descriverne la provvisorietà nella scheda comune. Non conosceva i guasti provocati. I termini del salvataggio dell'impianto restano da costruire.
+Mantiene l'impianto del ghiaccio della cooperativa in un porto inventato. Ha contribuito a salvarlo con Dario, di cui si fida. Nella catena candidata, aggiornata il 31 ottobre, aveva fermato la macchina e segnalato la necessità di sostituire un flessibile esterno. Ha poi chiuso sulla parola di Dario sostituzione, verifica e ripristino, senza controllarli né rendere visibile la propria segnalazione iniziale nella scheda comune. Non ha più una toppa in esercizio da difendere: ha una firma data senza verifica. Non conosceva i guasti provocati. I termini del salvataggio dell'impianto restano da costruire.
 
 ## Arc
 

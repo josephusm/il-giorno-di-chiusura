@@ -18,7 +18,7 @@ Ha accettato una settimana di affiancamento perché voleva cominciare a guadagna
 
 ## Scelta che cambia il caso
 
-Chiede l'inventario fisico prima della morte, per sapere che cosa sta prendendo in carico. Ferma l'impianto quando vede il problema. Dopo l'accusa vuole tenersi il posto, ma rifiuta che Alma aggiusti fra loro la vecchia documentazione: consegna la propria relazione senza retrodatazioni e chiede che venga nominata la riparazione provvisoria.
+Chiede l'inventario fisico prima della morte, per sapere che cosa sta prendendo in carico. Ferma l'impianto quando vede il problema. Dopo l'accusa vuole tenersi il posto, ma rifiuta che Alma aggiusti fra loro la vecchia documentazione: consegna la propria relazione senza retrodatazioni e chiede che venga nominata la segnalazione iniziale di sostituzione lasciata fuori dalla scheda comune. Nel test del 31 ottobre documenta il collegamento esterno con Alma nel controllo precedente la morte: il confronto suggerisce che il tubo sia quello vecchio, non prova «mai montato».
 
 Questa scelta può salvarle la reputazione e insieme guastarle il rapporto con chi dovrebbe insegnarle il resto del lavoro. Non sa ancora se Alma abbia firmato per fiducia o sapendo del pezzo mai sostituito; non può usare la propria innocenza come prova contro di lei.
 

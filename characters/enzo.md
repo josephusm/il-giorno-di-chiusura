@@ -24,7 +24,7 @@ La somma richiesta vale alcuni mesi del suo stipendio. L'entità esatta aspetta 
 
 ## Che cosa può vendere, e che cosa no
 
-L'inventario può mostrare il ricambio non montato anche se Enzo tace. Il suo silenzio riguarda le ammissioni sui due guasti provocati: una mancata installazione non le dimostra.
+L'inventario può mostrare una discrepanza fra sostituzione dichiarata e stato osservato anche se Enzo tace; da solo non prova «mai montato». Il suo silenzio riguarda le ammissioni sui due guasti provocati: una mancata installazione non le dimostra.
 
 Accetta che emerga il lavoro fatturato ma non eseguito, anche a costo di rispondere dei pagamenti autorizzati. Non promette di cancellare pezzi o di fermare Nora. Vuole mantenere separato quel danno visibile dalla frode intenzionale più vasta.
 
