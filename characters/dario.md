@@ -22,15 +22,17 @@ Ha provocato due emergenze per ottenere interventi pagati. Poteva ridimensionare
 
 Il ricambio di Alma è stato comprato, non montato. Dario ha incassato anche il lavoro: non può raccontarsi che tutto il servizio fatturato sia stato reso.
 
-A Enzo ammette i due vecchi episodi credendo di trattare riservatamente un rientro dei conti. Gli ha già affidato problemi meno gravi. Quando Enzo passa alla richiesta personale, Dario si sente venduto; questo non trasforma il ricatto in un'aggressione fisica subita.
+A Enzo ammette i due vecchi episodi credendo di trattare riservatamente un rientro dei conti. Nella scelta del 1 novembre annota e sottoscrive due fogli che collegano gli arresti intenzionali alle fatture: vuole circoscrivere la restituzione senza rinunciare ai crediti per lavori veri. Gli ha già affidato problemi meno gravi; la fiducia non equivale a una segretezza legalmente garantita. La plausibilità di questa sottoscrizione resta da mettere alla prova. Quando Enzo passa alla richiesta personale, Dario si sente venduto; questo non trasforma il ricatto in un'aggressione fisica subita.
 
 ## Il mattino
 
-Va all'incontro per ottenere una dilazione. La liquidità che Enzo presume disponibile serve anche a pagamenti per lavori reali; pagare subito significa fermare l'attività, non soltanto rinunciare a un lusso.
+Va all'incontro per ottenere tempo dopo il rifiuto della sua controproposta: 1.500 euro subito, altri 4.500 in tre rate entro due mesi, senza garanzia. Nel prototipo economico del 1 novembre dispone di 7.800 euro e ha 6.300 euro di impieghi previsti nei sette giorni successivi. Pagare i 6.000 chiesti da Enzo lascia 1.800 e un ammanco di 4.500 rispetto agli usi previsti. Può materialmente farlo, sacrificando o rinegoziando pagamenti e lavori; non è una chiusura inevitabile dell'attività. Importi inventati e calcolo completo in notes/sostenibilita-del-ricatto.md.
+
+Può rifiutare il pagamento personale e consegnare per primo il prospetto ai soci, chiedendo di discutere separatamente restituzioni e lavori veri. Non ha una promessa di perdono o assunzione. Scarta l'esposizione perché vuole salvare impresa e reputazione alle proprie condizioni, non perché il debito cancelli ogni alternativa.
 
 Potrebbe andarsene, rifiutare o confessare prima di essere esposto. Sceglie invece di impadronirsi del fascicolo; quando Enzo resiste, usa forza contro di lui. L'umiliazione non basta come causa: occorre rendere in scena il passaggio dalla trattativa alla decisione di sopraffarlo. Nessuna violenza precedente viene aggiunta oggi per rendere il gesto obbligatorio.
 
-Non crede che rubare la carta cancelli ogni discrepanza. Cerca di sottrarre la leva immediata e guadagnare tempo; non sa che Enzo ha già custodito una copia altrove. Caduta e riscontri alla spinta restano da verificare.
+Il fascicolo contiene il prospetto originale con le sue annotazioni. Non crede che rubarlo cancelli ogni discrepanza o impedisca a Enzo di parlare; non sa della copia fotografica conservata fuori dal fascicolo. Cerca tempo: quale vantaggio immediato immagini e perché passi alla forza restano il prossimo test, non un effetto già spiegato dal conto. Caduta e riscontri alla spinta restano da verificare.
 
 ## Relazione e voce
 
