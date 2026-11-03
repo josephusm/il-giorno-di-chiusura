@@ -22,7 +22,7 @@ Ha provocato due emergenze per ottenere interventi pagati. Poteva ridimensionare
 
 Il ricambio di Alma è stato comprato, non montato. Dario ha incassato anche il lavoro: non può raccontarsi che tutto il servizio fatturato sia stato reso.
 
-A Enzo ammette i due vecchi episodi credendo di trattare riservatamente un rientro dei conti. Nella scelta del 1 novembre annota e sottoscrive due fogli che collegano gli arresti intenzionali alle fatture: vuole circoscrivere la restituzione senza rinunciare ai crediti per lavori veri. Gli ha già affidato problemi meno gravi; la fiducia non equivale a una segretezza legalmente garantita. La plausibilità di questa sottoscrizione resta da mettere alla prova. Quando Enzo passa alla richiesta personale, Dario si sente venduto; questo non trasforma il ricatto in un'aggressione fisica subita.
+A J−6 ammette i due vecchi episodi e sottoscrive due fogli che collegano esplicitamente gli arresti intenzionali alle fatture, distinguendo restituzioni e crediti per lavori veri ancora da verificare. Nella precisazione del 3 novembre accetta che la proposta vada ai soci dopo il confronto di lavori e conti: cerca il sostegno promesso da Enzo a un'esposizione circoscritta e alla continuazione dell'assistenza reale durante il rientro, non una confessione custodita per sempre. Enzo non garantisce approvazione o commesse. Dario potrebbe rifiutare la firma e parlare da sé; vuole governare quel passaggio attraverso il contabile. La consuetudine dei favori non è una garanzia legale. Quando Enzo passa alla richiesta personale e minaccia la consegna senza sostenere la proposta, Dario si sente venduto; questo non trasforma il ricatto in un'aggressione fisica subita. Scelta precisata nel concept, non ancora sostenuta in scena.
 
 ## Il mattino
 
@@ -30,9 +30,9 @@ Va all'incontro per ottenere tempo dopo il rifiuto della sua controproposta: 1.5
 
 Può rifiutare il pagamento personale e consegnare per primo il prospetto ai soci, chiedendo di discutere separatamente restituzioni e lavori veri. Non ha una promessa di perdono o assunzione. Scarta l'esposizione perché vuole salvare impresa e reputazione alle proprie condizioni, non perché il debito cancelli ogni alternativa.
 
-Potrebbe andarsene, rifiutare o confessare prima di essere esposto. Sceglie invece di impadronirsi del fascicolo; quando Enzo resiste, usa forza contro di lui. L'umiliazione non basta come causa: occorre rendere in scena il passaggio dalla trattativa alla decisione di sopraffarlo. Nessuna violenza precedente viene aggiunta oggi per rendere il gesto obbligatorio.
+Potrebbe andarsene, rifiutare o parlare per primo ai soci. Nel test del 3 novembre pretende invece i due fogli: immagina di evitare che i soci si passino subito la sua grafia e di ottenere un nuovo confronto sul conto completo. Enzo nega la restituzione e dichiara le fotografie. Dario ora sa della copia, non della sua custodia; il vantaggio sperato sull'originale è venuto meno. Non basta più chiamare il furto un modo di prendere tempo.
 
-Il fascicolo contiene il prospetto originale con le sue annotazioni. Non crede che rubarlo cancelli ogni discrepanza o impedisca a Enzo di parlare; non sa della copia fotografica conservata fuori dal fascicolo. Cerca tempo: quale vantaggio immediato immagini e perché passi alla forza restano il prossimo test, non un effetto già spiegato dal conto. Caduta e riscontri alla spinta restano da verificare.
+Chiede ancora a Enzo di restare a trattare. Al rifiuto, quando l'altro si allontana, afferra il fascicolo per fermarlo. Può lasciarlo andare; sceglie di passare dalla presa sulla carta alla forza sulla persona. Vuole imporre la continuazione della trattativa, non cancellare le prove. Non è una strategia garantita o una difesa da un attacco di Enzo. La scelta causale è fissata al concept in notes/decisione-di-dario.md; tenuta in scena, caduta, rischio prevedibile e riscontri alla spinta restano da verificare. Nessuna violenza precedente aggiunta per renderlo inevitabile. Alma non conosce questa sequenza privata per il solo fatto che l'autore l'ha scelta.
 
 ## Relazione e voce
 
