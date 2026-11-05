@@ -7,4 +7,4 @@ type: location
 
 Un piccolo porto immaginario e il suo impianto del ghiaccio, gestito da una cooperativa. Non è il ritratto di un porto reale.
 
-Topografia, organizzazione del lavoro e tecnologia non sono ancora fissate. Il modello economico deve rendere comprensibili sia la necessità dell'impianto sia la possibilità di scegliere altrimenti; nessuna comunità perfetta assediata da un cattivo astratto.
+La pianta minima candidata del confronto è in notes/pianta-del-confronto.md (5 novembre): anticamera superiore con finestra sul piazzale, nucleo del pianerottolo schermato da muro pieno, scala interna verso il locale inferiore e scala esterna ordinaria sul fianco est. Non è un rilievo o un progetto edilizio verificato; la collocazione dell'impianto e il porto completo restano da costruire. Organizzazione del lavoro e tecnologia non sono ancora fissate. Il modello economico deve rendere comprensibili sia la necessità dell'impianto sia la possibilità di scegliere altrimenti; nessuna comunità perfetta assediata da un cattivo astratto.
