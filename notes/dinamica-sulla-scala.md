@@ -4,6 +4,8 @@ title: "Dinamica sulla scala"
 
 # Dinamica sulla scala — 7 novembre 2026
 
+**Aggiornamento del 9 novembre:** notes/soluzione-e-caduta-autonoma.md ritira la presa nascosta come soluzione adottata per l'outline: il solo racconto di Dario colma il tratto cieco. Questa nota resta il test storico di gesto/ingombri e limiti documentali, non un vincolo per salvare la dinamica. Prossimo task: una nuova pagina del confronto, violenza osservabile con l'autista già presente, senza ammissione risolutiva; luogo e dinamica possono cambiare. Nessuna nuova sequenza o nesso mortale approvati dal test negativo.
+
 ## Autoprompt e perimetro
 
 Un solo task di concept: mettere alla prova la sequenza sulla scala interna, distinguendo aggressione, perdita di equilibrio ed esito. Nota creata con writekit e salvata prima della ricerca, poi sviluppata e rivista. Non è una scena, una simulazione o una perizia. Non calibrare una forza capace di uccidere.

@@ -4,6 +4,8 @@ title: "Pianta del confronto"
 
 # Pianta del confronto — 5 novembre 2026
 
+**Aggiornamento del 9 novembre:** notes/soluzione-e-caduta-autonoma.md ha ritirato la soluzione che affidava la presa al tratto cieco e il finale all'ammissione di Dario. La pianta resta un prototipo controllato solo nei limiti qui descritti, non un vincolo intoccabile. Nuova direzione: rendere osservabile la violenza con l'autista già presente, cambiando luogo/dinamica se serve; nuova sequenza ancora da progettare. Non spostare il testimone dietro il muro né attribuirgli una visuale che qui non possiede.
+
 ## Autoprompt e perimetro
 
 Un solo task di concept: accessi, percorsi, visuali e udibilità. Il muro che nasconde la scala deve esistere prima dell'aggressione. Seguire anche l'uscita di Dario e il soccorso, senza camion di passaggio, porte che si chiudono al momento giusto o rumori accesi per togliere un testimone.

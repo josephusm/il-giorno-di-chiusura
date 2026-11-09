@@ -10,6 +10,8 @@ relationships: []
 
 Scheda provvisoria di concept — 27 ottobre 2026. È il vecchio socio di Alma; responsabile candidato dei due sabotaggi e dell'aggressione, da sostenere separatamente.
 
+**Stato al 9 novembre:** il test in notes/soluzione-e-caduta-autonoma.md ha ritirato la presa nascosta descritta sotto come soluzione adottata per l'outline. Non la prova un cumulo di riscontri su contesa e frode. La sequenza del 7 novembre resta qui come prototipo storico, non cronologia da difendere; il prossimo task la sostituisce, con violenza osservabile e responsabilità riconoscibile presto attraverso l'autista già previsto. Firma, ricatto e alternative restano materiale di lavoro; nuova dinamica non ancora approvata.
+
 ## Desiderio e lavoro vero
 
 Vuole tenere aperta la propria attività di assistenza e poter scegliere gli incarichi, anziché entrare stabilmente alle dipendenze della cooperativa. Ha clienti e riparazioni vere. Rifiuta ancora lavori pagati troppo poco, anche quando avrebbe bisogno dell'incasso: non cerca soltanto di sopravvivere a qualunque prezzo.
