@@ -10,6 +10,8 @@ relationships: []
 
 Scheda provvisoria di concept — 27 ottobre 2026. È il contabile che muore; il ricatto è una scelta candidata, non una qualità dedotta dalla professione.
 
+Aggiornamento 11 novembre: in notes/confronto-osservabile.md chiude il colloquio e torna per la scala esterna dall'autista che attende la sua firma, prima dell'inventario. Non viene mandato sull'orlo per rendere possibile la caduta. Dario ha già saputo delle fotografie, molla la carta e poi lo segue e lo afferra sulla scala, sotto gli occhi dell'autista. Soccorso dal piazzale, morte successiva; il fascicolo resta sul luogo, non viene preso da Alma. La precedente scala interna è sostituita, non una seconda versione fra cui scegliere al finale.
+
 ## Desiderio prima della morte
 
 Ha accettato un impiego amministrativo fuori dal porto. Vuole trasferirsi e cominciare senza essere chiamato ogni sera per un rimborso o un favore. Ha già rinviato una volta la partenza per chiudere i conti. Ad Alma nega un altro mese di aiuto: non serve morire per avere una scelta che la danneggia.

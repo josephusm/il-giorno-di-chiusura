@@ -4,6 +4,8 @@ title: "Dinamica sulla scala"
 
 # Dinamica sulla scala — 7 novembre 2026
 
+**Stato al 11 novembre:** la nuova sequenza è in notes/confronto-osservabile.md: aggressione e inizio della caduta sulla scala esterna, osservabili dall'autista già fuori dalla cabina per la firma; soccorso dal piazzale e nessuna ammissione necessaria a identificare l'atto. La sequenza soddisfa quel test narrativo, non convalida visuali dal vero, biomeccanica, causa clinica o sufficienza giudiziaria. Le descrizioni della scala interna, della vecchia sosta, dell'uscita col fascicolo e i «prossimi task» sotto sono storia del prototipo, non istruzioni correnti. Firma, conto e copie restano materiale riutilizzato nei limiti dichiarati. Il prossimo unico task è la sinossi estesa di una pagina, per verificare se il nucleo regge ancora un romanzo con l'aggressione nota presto.
+
 **Aggiornamento del 9 novembre:** notes/soluzione-e-caduta-autonoma.md ritira la presa nascosta come soluzione adottata per l'outline: il solo racconto di Dario colma il tratto cieco. Questa nota resta il test storico di gesto/ingombri e limiti documentali, non un vincolo per salvare la dinamica. Prossimo task: una nuova pagina del confronto, violenza osservabile con l'autista già presente, senza ammissione risolutiva; luogo e dinamica possono cambiare. Nessuna nuova sequenza o nesso mortale approvati dal test negativo.
 
 ## Autoprompt e perimetro

@@ -10,7 +10,7 @@ relationships: []
 
 Scheda provvisoria di concept — 27 ottobre 2026. È il vecchio socio di Alma; responsabile candidato dei due sabotaggi e dell'aggressione, da sostenere separatamente.
 
-**Stato al 9 novembre:** il test in notes/soluzione-e-caduta-autonoma.md ha ritirato la presa nascosta descritta sotto come soluzione adottata per l'outline. Non la prova un cumulo di riscontri su contesa e frode. La sequenza del 7 novembre resta qui come prototipo storico, non cronologia da difendere; il prossimo task la sostituisce, con violenza osservabile e responsabilità riconoscibile presto attraverso l'autista già previsto. Firma, ricatto e alternative restano materiale di lavoro; nuova dinamica non ancora approvata.
+**Stato al 11 novembre:** notes/confronto-osservabile.md sostituisce la sequenza nascosta del 7 novembre, ritirata il 9. Dario molla il fascicolo, segue Enzo sulla scala esterna e lo afferra/tira durante la discesa: l'autista già fuori per la firma vede la presa prima della perdita d'appoggio e l'inizio della caduta. Dario resta sul luogo; non esce più col fascicolo per fabbricarsi un racconto pacifico. La forza è attribuibile senza un'ammissione finale, nel limite di una testimonianza fallibile, non di una sentenza o un nesso clinico dimostrato. Firma, ricatto, copie note prima della forza e alternative restano materiale di concept; i passaggi sotto verso il nucleo B e la scala interna sono storia del prototipo, non la nuova cronologia. Prossimo unico task: sinossi estesa di una pagina per verificare la tenuta del romanzo con responsabilità dell'atto nota presto.
 
 ## Desiderio e lavoro vero
 

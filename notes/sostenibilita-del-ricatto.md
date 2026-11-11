@@ -4,6 +4,8 @@ title: "Sostenibilità del ricatto"
 
 # Sostenibilità del ricatto — 1 novembre 2026
 
+**Stato al 11 novembre:** la nuova sequenza è in notes/confronto-osservabile.md: aggressione e inizio della caduta sulla scala esterna, osservabili dall'autista già fuori dalla cabina per la firma; soccorso dal piazzale e nessuna ammissione necessaria a identificare l'atto. La sequenza soddisfa quel test narrativo, non convalida visuali dal vero, biomeccanica, causa clinica o sufficienza giudiziaria. Le descrizioni della scala interna, della vecchia sosta, dell'uscita col fascicolo e i «prossimi task» sotto sono storia del prototipo, non istruzioni correnti. Firma, conto e copie restano materiale riutilizzato nei limiti dichiarati. Il prossimo unico task è la sinossi estesa di una pagina, per verificare se il nucleo regge ancora un romanzo con l'aggressione nota presto.
+
 ## Autoprompt e perimetro
 
 Task unico del 1 novembre: dare al ricatto una somma, un conto di cassa e una merce precisa; provare anche la possibilità di rifiutarlo. Nessuna scena, caduta o topografia. Importi e documenti sono invenzioni di concept: non prezzi verificati, conti di un porto reale o una valutazione finanziaria. J0 indica il giorno della consegna, non una data di calendario già scelta.

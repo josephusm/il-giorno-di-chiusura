@@ -4,6 +4,8 @@ title: "Decisione di Dario"
 
 # Decisione di Dario — 3 novembre 2026
 
+**Stato al 11 novembre:** la nuova sequenza è in notes/confronto-osservabile.md: aggressione e inizio della caduta sulla scala esterna, osservabili dall'autista già fuori dalla cabina per la firma; soccorso dal piazzale e nessuna ammissione necessaria a identificare l'atto. La sequenza soddisfa quel test narrativo, non convalida visuali dal vero, biomeccanica, causa clinica o sufficienza giudiziaria. Le descrizioni della scala interna, della vecchia sosta, dell'uscita col fascicolo e i «prossimi task» sotto sono storia del prototipo, non istruzioni correnti. Firma, conto e copie restano materiale riutilizzato nei limiti dichiarati. Il prossimo unico task è la sinossi estesa di una pagina, per verificare se il nucleo regge ancora un romanzo con l'aggressione nota presto.
+
 ## Autoprompt e perimetro
 
 Un solo task di concept: rendere specifiche la firma a J−6 e la scelta della forza a J0. Provare il vantaggio cercato contro un'obiezione che non si può togliere: Enzo può parlare e avere copie. Nessuna scena stesa, pianta, dinamica della caduta o soluzione probatoria. I comportamenti sono invenzioni dell'autore, non diagnosi di persone reali.

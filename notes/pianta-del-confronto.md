@@ -4,6 +4,8 @@ title: "Pianta del confronto"
 
 # Pianta del confronto — 5 novembre 2026
 
+**Stato al 11 novembre:** la nuova sequenza è in notes/confronto-osservabile.md: aggressione e inizio della caduta sulla scala esterna, osservabili dall'autista già fuori dalla cabina per la firma; soccorso dal piazzale e nessuna ammissione necessaria a identificare l'atto. La sequenza soddisfa quel test narrativo, non convalida visuali dal vero, biomeccanica, causa clinica o sufficienza giudiziaria. Le descrizioni della scala interna, della vecchia sosta, dell'uscita col fascicolo e i «prossimi task» sotto sono storia del prototipo, non istruzioni correnti. Firma, conto e copie restano materiale riutilizzato nei limiti dichiarati. Il prossimo unico task è la sinossi estesa di una pagina, per verificare se il nucleo regge ancora un romanzo con l'aggressione nota presto.
+
 **Aggiornamento del 9 novembre:** notes/soluzione-e-caduta-autonoma.md ha ritirato la soluzione che affidava la presa al tratto cieco e il finale all'ammissione di Dario. La pianta resta un prototipo controllato solo nei limiti qui descritti, non un vincolo intoccabile. Nuova direzione: rendere osservabile la violenza con l'autista già presente, cambiando luogo/dinamica se serve; nuova sequenza ancora da progettare. Non spostare il testimone dietro il muro né attribuirgli una visuale che qui non possiede.
 
 ## Autoprompt e perimetro
