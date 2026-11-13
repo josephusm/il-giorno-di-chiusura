@@ -10,6 +10,8 @@ relationships: []
 
 Scheda provvisoria di concept — 27 ottobre 2026. È la collega della catena candidata, non un personaggio già fissato nel manoscritto.
 
+**Decisione candidata del 13 novembre:** nella sinossi estesa rifiuta la proroga sotto la garanzia di Alma e lascia l'incarico. Conserva la stanza già pagata, non un nuovo lavoro garantito. Non deve aspettare l'intera indagine per scegliere. Contestazione, firma e condizioni esatte della proposta sono il prossimo unico task; l'affiancamento non è illegittimo per definizione, il suo rifiuto non la rende infallibile. Le alternative sotto restano materiale per costruire quella scelta, non finali intercambiabili.
+
 ## Desiderio e vita fuori dal caso
 
 Ha lavorato nella manutenzione di magazzini; è nuova nel porto, non nel mestiere. Ha scelto questo impiego per fermarsi in un posto. Nella stanza appena affittata vuole liberare il tavolo dagli scatoloni e riprendere un corso serale di disegno. Il contratto le serve anche per questo, non per diventare Alma.

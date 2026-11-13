@@ -32,4 +32,4 @@ Non chiede alla collega di farla partire e non promette che un'ammissione di col
 
 Con Alma usa abbreviazioni e battute che agli altri non spiegano niente; quando è ferita smette di usarle. Può cambiare argomento, ridere e avere una giornata buona mentre la sorella è ancora nel caso.
 
-Non sa chi ricatta chi, non vede la caduta e non procura prove. Il fatto che parta è scelto per il concept; se Alma la raggiunga e come ritornino resta aperto.
+Non sa chi ricatta chi, non vede la caduta e non procura prove. Il fatto che parta è scelto per il concept. La sinossi del 13 novembre sceglie che Alma la raggiunga più avanti, senza rifare le tappe già cambiate o recuperare tutte le settimane; non è un perdono automatico o una scena già scritta. Il ritorno di Alma al vecchio ruolo non è garantito.
