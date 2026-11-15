@@ -10,7 +10,7 @@ relationships: []
 
 Scheda provvisoria di concept — 27 ottobre 2026. È la collega della catena candidata, non un personaggio già fissato nel manoscritto.
 
-**Decisione candidata del 13 novembre:** nella sinossi estesa rifiuta la proroga sotto la garanzia di Alma e lascia l'incarico. Conserva la stanza già pagata, non un nuovo lavoro garantito. Non deve aspettare l'intera indagine per scegliere. Contestazione, firma e condizioni esatte della proposta sono il prossimo unico task; l'affiancamento non è illegittimo per definizione, il suo rifiuto non la rende infallibile. Le alternative sotto restano materiale per costruire quella scelta, non finali intercambiabili.
+**Specificazione del 15 novembre:** `notes/conflitto-di-consegna.md` precisa il conflitto scelto nella sinossi. Nora ha ricevuto chiavi/carte e firmato i controlli svolti, non la consegna definitiva. Ha però mancato il quadro pendenze dovuto J−1, aspettando Alma: una mancanza propria, non la prova di aver causato il guasto. Rifiuta cinque turni ulteriori pagati perché Alma resterebbe il riferimento tecnico per la sua conferma; chiede un valutatore diverso, non ottiene quell'impegno. Può restare e dissentire senza ritirare la relazione, ma sceglie di lasciare: perde compensi reali e una possibilità di conferma, conserva la stanza pagata e non ha un altro lavoro garantito. Non aspetta l'intera indagine; il rifiuto non la rende infallibile. Scelta di concept ancora da sostenere nell'arco e nelle scene, non finale alternativo a piacere.
 
 ## Desiderio e vita fuori dal caso
 
@@ -26,7 +26,7 @@ Questa scelta può salvarle la reputazione e insieme guastarle il rapporto con c
 
 ## Alternativa e costo
 
-Potrebbe accettare la garanzia personale di Alma e aspettare che passi. Non lo fa. Se il posto rimane subordinato a quella garanzia, cerca un altro impiego, anche perdendo l'anticipo dell'affitto. Non aspetta di diventare l'erede riconosciuta.
+Può accettare i cinque turni, mantenere le riserve e tentare di cambiare la valutazione conclusiva. Preferisce cercare un altro impiego subito; può dover lasciare il porto senza recuperare la stanza già pagata, ma il trasloco non è una conseguenza automatica. La proroga non le vieta di parlare: sono la fiducia nel giudizio di Alma e il rischio di un altro passaggio senza conferma a pesare nella scelta. Non aspetta di diventare l'erede riconosciuta.
 
 Durante il fermo propone di comprare temporaneamente ghiaccio altrove invece di promettere una ripartenza rapida con Alma. È una proposta costosa da verificare sul porto che costruiremo, non una fornitura già disponibile.
 
